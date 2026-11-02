@@ -1,4 +1,4 @@
-# Ziang-Cui
+# ZiangCui
 Personal infos
 
 Ziang Cui
